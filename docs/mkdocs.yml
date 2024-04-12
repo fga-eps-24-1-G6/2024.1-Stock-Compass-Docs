@@ -3,9 +3,8 @@ site_name: Stock-Compass - Dcoumentação
 nav:
   - Home: index.md
   - Políticas de Repositório: politicas_de_repositorio.md
-  - Definição de Metodologia: definicao_de_metodologia.md
-  - Metodologia:
-    - Lean Inception: lean_inception.md
+  - Metodologia: definicao_de_metodologia.md
+  - Lean Inception: lean_inception.md
   - Produto:
       - Documento de Visão: produto/documento_de_visao.md
       - Documento de Arquitetura: produto/documento_de_arquitetura.md
@@ -13,9 +12,8 @@ nav:
       - Identidade Visual: produto/identidade_visual.md
       - Qualidade do Produto: produto/qualidade_do_produto.md
   - Projeto:
-      - Plano de Gerenciamento de Riscos: projeto/plano_de_gerenciamento_de_riscos.md
+      - Plano de Gerenciamento de Riscos: projeto/plano_riscos.md
       - GQM: projeto/gqm.md
-      - Backlog do Produto: projeto/backlog_do_produto.md
+      - Backlog do Produto: projeto/backlog_produto.md
       - EVM: projeto/evm.md
       - Léxicos: projeto/lexicos.md
-  - Sprints:

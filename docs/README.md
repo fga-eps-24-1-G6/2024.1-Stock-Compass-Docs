@@ -10,7 +10,7 @@ O principal objetivo do Stock-Compass é proporcionar aos usuários uma compreen
 
 ## Equipe
 
-|           Membro Completo         |     Matrícula    |
+|           Membro         |     Matrícula    |
 |-----------------------------------|------------------|
 | João Victor Teixeira Batista      |    190109963     |
 | Lucas Felipe Soares               |    202016767     |

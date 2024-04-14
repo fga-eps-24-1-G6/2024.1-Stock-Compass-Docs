@@ -1,4 +1,4 @@
-# Protótipo da Aplicação
+# Protótipo de Média Fidelidade
 
 ## Histórico de versão
 

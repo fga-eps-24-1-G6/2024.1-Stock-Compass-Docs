@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Projeto: Stock-Compass
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Introdução
 
-## Commands
+O Stock-Compass é uma plataforma desenvolvida como parte do curso de Engenharia de Produto de Software, ministrado na Universidade de Brasília, durante o semestre 2024/1. Esta plataforma foi concebida para oferecer uma experiência abrangente de aprendizado e análise sobre investimentos no mercado de ações.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Objetivo
 
-## Project layout
+O principal objetivo do Stock-Compass é proporcionar aos usuários uma compreensão aprofundada do mercado financeiro e das práticas de investimento. A plataforma visa ser uma ferramenta educacional e analítica, capacitando os usuários a tomar decisões mais informadas e estratégicas ao investir em ações.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Equipe
+
+|           Membro Completo         |     Matrícula    |
+|-----------------------------------|------------------|
+| Luiz Henrique Fernandes Zamprogno |    190033681     |
+|                                   |                  |

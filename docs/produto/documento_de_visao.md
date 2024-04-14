@@ -99,9 +99,52 @@ Pontos Negativos:
 | --------------- | ---------------- | --------- | ----------------- |
 | Investidores iniciantes | Tomada de Decisão Informada | Dificuldade na Interpretação de Métricas | Facilitar a comparação de métricas e indicadores por meio de textos explicativos para a linguagem do investidor iniciante
 
+4. ## **Visão Geral do Produto**
+### 4.1 Perspectiva do Produto
+<p align = "justify">&emsp;&emsp; O objetivo principal do produto se concentra em auxiliar um investidor iniciante/intermediário com informações relacionadas ao investimento em ações. Por meio de simulações de carteira, tradução para termos simples e gráficos explicativos, esse objetivo será alcançado</p>
+
+### 4.2 Resumo das Capacidades
+| Benefício                                                                                                                  | Recursos de suporte                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Ajudar os investidores que não se consideram experts a fazerem investimentos com mais segurança e de acordo com seu perfil | Website com uma interface e tradução de termos técnicos amigáveis para o usuário final                                   |
+| Simulação de carteira                                                                                                      | Interface de fácil utilização  para que o usuário possa escolher as ações que deseja acompanhar e simular seu rendimento |
+| Gráficos                                                                                                                   | Interface amigável para que o usuário entenda o rendimento das ações de forma mais específica e visual                   |
+
+
+### 4.3 Suposições e Dependências
+- O usuário deverá possuir um computador e acesso à internet.
+- O sistema unirá os termos complexos e informações sobre ação com a facilidade de visualização e explicação para o usuário final.
+- O sistema precisará trazer informações sobre um grande volume de ações do mercado.
+
+1. ## **Capacidades do Produto**
+- Cadastrar na plataforma
+- Pesquisar ações
+- Categorizar ações
+- Calcular preço teto para ações
+- Gráficos para entendimento de rendimento e valores
+- Comparação de ações
+- Avaliação de ações
+- Gráficos de patrimônio
+- Relatório de ações
+- Simulação de Carteira
+- Definição de perfil de investimento individualizado
+- Calendário de dividendos
+- Notícia de ações
+
+## 6 Restrições
+### 6.1 Restrições de Design
+<p align = "justify">&emsp;&emsp; O aplicativo busca proporcionar aos usuários uma utilização autoexplicativa e fácil, dispensando conhecimentos técnicos.</p>
+
+### 6.2 Restrições de implementação
+<p align = "justify">&emsp;&emsp; O sistema será implementado utilizando 2 principais frameworks</p>
+
+### 6.3 Restrições de Uso
+<p align = "justify">&emsp;&emsp; As restrições para utilização do produto se limitam ao usuário possuir um computador com acesso a internet.</p>
+
 ## Histórico de versão
 
 | Atividade                          | Responsável   | Data       |
 |------------------------------------|---------------|------------|
 | Criação do documento | João Victor | 14/04/2024 |
 | Adição dos tópicos 1, 2 e 3 | Lucas Gomes | 14/04/2024 |
+| Adição dos tópicos 4, 5 e 6 | Victor Lima | 14/04/2024 |

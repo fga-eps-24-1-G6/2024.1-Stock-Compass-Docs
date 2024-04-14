@@ -116,7 +116,7 @@ Pontos Negativos:
 - O sistema unirá os termos complexos e informações sobre ação com a facilidade de visualização e explicação para o usuário final.
 - O sistema precisará trazer informações sobre um grande volume de ações do mercado.
 
-1. ## **Capacidades do Produto**
+5. ## **Capacidades do Produto**
 - Cadastrar na plataforma
 - Pesquisar ações
 - Categorizar ações
@@ -131,7 +131,7 @@ Pontos Negativos:
 - Calendário de dividendos
 - Notícia de ações
 
-## 6 Restrições
+6. ## **Restrições do Produto**
 ### 6.1 Restrições de Design
 <p align = "justify">&emsp;&emsp; O aplicativo busca proporcionar aos usuários uma utilização autoexplicativa e fácil, dispensando conhecimentos técnicos.</p>
 

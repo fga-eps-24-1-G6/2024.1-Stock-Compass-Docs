@@ -2,17 +2,19 @@ site_name: Stock-Compass - Dcoumentação
 
 nav:
   - Home: index.md
-  - Documntação:
+  - Documentação:
     - Metodologia: documentacao/metodologia.md
     - Políticas de Repositório: documentacao/politicas_de_repositorio.md
-    - Lean Inception: documentacao/lean_inception.md
-    - Documento de Visão: documentacao/documento_de_visao.md
-    - Documento de Arquitetura: documentacao/documento_de_arquitetura.md
-    - Identidade Visual: documentacao/identidade_visual.md
-    - Protótipo: documentacao/prototipo.md
-    - Qualidade do Produto: documentacao/qualidade_do_produto.md
-    - Plano de Gerenciamento de Riscos: documentacao/plano_riscos.md
-    - Backlog do Produto: documentacao/backlog_produto.md
+  - Lean Inception:
+    - Lean Inception: lean_inception/lean_inception.md
+  - Produto:
+    - Documento de Visão: produto/documento_de_visao.md
+    - Documento de Arquitetura: produto/documento_de_arquitetura.md
+    - Identidade Visual: produto/identidade_visual.md
+    - Protótipo: produto/prototipo.md
+    - Qualidade do Produto: produto/qualidade_do_produto.md
+    - Plano de Gerenciamento de Riscos: produto/plano_riscos.md
+    - Backlog do Produto: produto/backlog_produto.md
   - Spints:
     - Backlog do Produto: sprints/sprint_1.md
 

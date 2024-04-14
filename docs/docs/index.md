@@ -13,4 +13,4 @@ O principal objetivo do Stock-Compass é proporcionar aos usuários uma compreen
 |           Membro Completo         |     Matrícula    |
 |-----------------------------------|------------------|
 | Luiz Henrique Fernandes Zamprogno |    190033681     |
-|                                   |                  |
+|    João Victor Teixeira Batista   |    190109963     |

@@ -21,7 +21,9 @@ O diagrama foi elaborado seguindo a documentação e padronização prevista pel
 
 #### Discussões
 
-(Yan, coloque os principais pontos de explicação do diagrama aqui e sua imagem)
+Um diagrama de classes é um diagrama estático da UML que reúne os elementos mais importantes de um sistema orientado a objetos. Nele são exibidos um conjunto de classes, interfaces e seus relacionamentos. As classes especificam tanto as propriedades quanto os comportamentos dos objetos. O diagrama de classes surgiu com o objetivo de reunir as "melhores práticas de engenharia" que provaram ter sucesso em modelar sistemas complexos na época.
+
+[Diagrama de classes](/2024.1-Stock-Compass-Docs/docs/produto/assets/diagramadeclasses.png)
 
 ## Diagrama de Pacotes
 

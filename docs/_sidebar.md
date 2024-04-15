@@ -17,8 +17,11 @@
   - [Qualidade do Produto](/produto/qualidade_do_produto.md)
 
 - **Projeto**
-  - [Plano de Gerenciamento de Riscos](/Project/RiskPlan.md)
-  - [Backlog do Produto](/produto/ProductBacklog.md)
+  - [Plano de Gerenciamento de Riscos](/produto/plano_riscos.md)
+  - [Backlog do Produto](/produto/backlog_produto.md)
+
+- **Guias de Contribuição**
+  - [Como construir API's](/guias/arquitetura_apis.md)
 
 - **Srints**
-  - [Pré-Sprint 0](/sprints/pre_sprints_0.md) 
+  - [Pré-Sprint 0](/sprints/pre_sprint_0.md) 

@@ -8,7 +8,7 @@
 
 O líder técnico do projeto, em conjunto com a equipe de desenvolvimento, analisou o backlog do produto e os resultados do canvas MVP para formular a primeira versão do cronograma de atividades.
 
-Foram consideradas para esse cronograma as funcionaldades que foram definidas durante o *Lean Inception* como essenciais para o MVP, que tem sua entrega prevista para entre os dias ***22 a 24 de abril de 2024***.
+Foram consideradas para esse cronograma as funcionaldades que foram definidas durante o *Lean Inception* como essenciais para o MVP, que tem sua entrega prevista para entre os dias ***22 a 24 de maio de 2024***.
 
 A imagem abaixo mostra uma árvore de dependências das tarefas que serão executadas com as tarefas já agrupadas por suas sprints:
 

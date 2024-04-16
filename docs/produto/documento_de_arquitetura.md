@@ -8,7 +8,7 @@
 | Elaboração do diagrama de Microserviços| Lucas Felipe e Yan Andrade | 09/04/2024 |
 | Elaboração do diagrama de Pacotes| Lucas Felipe e Yan Andrade| 10/04/2024 |
 | Elaboração do Diagrama de classes | Lucas Felipe e Yan Andrade | 12/04/2024 |
-| Conserta imagens | João Viictor | 16/04/2024 |
+| Conserta imagens | João Victor | 16/04/2024 |
 
 ## Diagrama de Classes
 

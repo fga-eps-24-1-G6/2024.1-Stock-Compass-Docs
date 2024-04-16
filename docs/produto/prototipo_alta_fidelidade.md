@@ -19,6 +19,7 @@ O protótipo de alta fidelidade com base no protótipo de média fidelidade o de
 <img src="assets/alta_fidelidade2.png" alt="tela de pesquisa"/>
 
 <br/>
+<br/>
 
 <img src="assets/alta_fidelidade4.png" alt="tela de filtros"/>
 
@@ -35,6 +36,7 @@ O protótipo de alta fidelidade com base no protótipo de média fidelidade o de
 <img src="assets/alta_fidelidade5.png" alt="edição de carteira"/>
 
 <br/>
+<br/>
 
 <img src="assets/alta_fidelidade6.png" alt="remoção de carteira"/>
 
@@ -43,9 +45,11 @@ O protótipo de alta fidelidade com base no protótipo de média fidelidade o de
 <img src="assets/alta_fidelidade7.png" alt="tela de carteira"/>
 
 <br/>
+<br/>
 
 <img src="assets/alta_fidelidade8.png" alt="edição de carteira"/>
 
+<br/>
 <br/>
 
 <img src="assets/alta_fidelidade9.png" alt="remoção de carteira"/>

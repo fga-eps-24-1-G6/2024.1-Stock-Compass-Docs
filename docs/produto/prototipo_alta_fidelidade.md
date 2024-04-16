@@ -26,18 +26,18 @@ O protótipo de alta fidelidade com base no protótipo de média fidelidade o de
 
 
 ### Acompanhamento de Carteira
-<img src="docs/assets/alta_fidelidade3.png" alt="tela de carteira"/>
+<img src="assets/alta_fidelidade3.png" alt="tela de carteira"/>
 
 
 ### Edição e Remoção de Carteira
 <img src="assets/alta_fidelidade5.png" alt="edição de carteira"/>
-
+<br>
 <img src="assets/alta_fidelidade6.png" alt="remoção de carteira"/>
 
 
 ### Edição e Remoção de Lançamento
 <img src="assets/alta_fidelidade7.png" alt="tela de carteira"/>
-
+<br>
 <img src="assets/alta_fidelidade8.png" alt="edição de carteira"/>
-
+<br>
 <img src="assets/alta_fidelidade9.png" alt="remoção de carteira"/>

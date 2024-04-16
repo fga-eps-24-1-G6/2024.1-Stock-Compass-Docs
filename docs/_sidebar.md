@@ -16,13 +16,12 @@
   - [Documento de Arquitetura](/produto/documento_de_arquitetura.md)
   - [Protótipo de Média Fidelidade](/produto/prototipo_media_fidelidade.md)
   - [Protótipo de Alta Fidelidade](/produto/prototipo_alta_fidelidade.md)
-  <!-- - [Identidade Visual](/produto/identidade_visual.md) -->
-  <!-- - [Qualidade do Produto](/produto/qualidade_do_produto.md) -->
+  - [Identidade Visual](/produto/identidade_visual.md)
+  - [Qualidade do Produto](/produto/qualidade_do_produto.md)
 
 - **Projeto**
   - [Backlog do Produto](/projeto/backlog_produto.md)
   - [Cronograma de Atividades](/projeto/cronograma.md)
-  <!-- - [Plano de Gerenciamento de Riscos](/produto/plano_riscos.md) -->
 
 - **Guias de Contribuição**
   - [Como construir API's](/guias/arquitetura_apis.md)

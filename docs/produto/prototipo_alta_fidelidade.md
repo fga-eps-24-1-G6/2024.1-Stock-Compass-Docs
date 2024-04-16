@@ -12,17 +12,17 @@ O protótipo de alta fidelidade com base no protótipo de média fidelidade o de
 ## Fluxos
 
 ### Tela Inicial
-<img src="/assets/alta_fidelidade10.png" alt="tela inicial"/>
+<img src="assets/alta_fidelidade10.png" alt="tela inicial"/>
 
 
 ### Pesquisa de ações
-<img src="/assets/alta_fidelidade2.png" alt="tela de pesquisa"/>
+<img src="assets/alta_fidelidade2.png" alt="tela de pesquisa"/>
 
-<img src="/assets/alta_fidelidade4.png" alt="tela de filtros"/>
+<img src="assets/alta_fidelidade4.png" alt="tela de filtros"/>
 
 
 ### Visualização de ações
-<img src="/assets/alta_fidelidade1.png" alt="tela de ações"/>
+<img src="assets/alta_fidelidade1.png" alt="tela de ações"/>
 
 
 ### Acompanhamento de Carteira
@@ -30,14 +30,14 @@ O protótipo de alta fidelidade com base no protótipo de média fidelidade o de
 
 
 ### Edição e Remoção de Carteira
-<img src="/assets/alta_fidelidade5.png" alt="edição de carteira"/>
+<img src="assets/alta_fidelidade5.png" alt="edição de carteira"/>
 
-<img src="/assets/alta_fidelidade6.png" alt="remoção de carteira"/>
+<img src="assets/alta_fidelidade6.png" alt="remoção de carteira"/>
 
 
 ### Edição e Remoção de Lançamento
-<img src="/assets/alta_fidelidade7.png" alt="tela de carteira"/>
+<img src="assets/alta_fidelidade7.png" alt="tela de carteira"/>
 
-<img src="/assets/alta_fidelidade8.png" alt="edição de carteira"/>
+<img src="assets/alta_fidelidade8.png" alt="edição de carteira"/>
 
-<img src="/assets/alta_fidelidade9.png" alt="remoção de carteira"/>
+<img src="assets/alta_fidelidade9.png" alt="remoção de carteira"/>

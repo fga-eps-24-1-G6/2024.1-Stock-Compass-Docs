@@ -26,6 +26,54 @@ O backlog acima, contém todas as funcionalidades levantadas para a aplicação,
 Para a primeira release (MVP) do projeto Stock Compass foram definfidas as seguintes features do backlog:
 
 
+<table>
+    <thead>
+        <tr>
+            <th>ÉPICO</th>
+            <th>FEATURE</th>
+            <th>USER STORY</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=8>AÇÕES</td>
+            <td rowspan=2>Mostrar dados de ações</td>
+            <td>L3 Name A</td>
+        </tr>
+        <tr>
+            <td>L3 Name B</td>
+        </tr>
+        <tr>
+            <td rowspan=2>Atualizar periodicamente os dados das ações</td>
+            <td>L3 Name C</td>
+        </tr>
+        <tr>
+            <td>L3 Name D</td>
+        </tr>
+        <tr>
+            <td rowspan=3>Pesquisar ações (nome e filtros)</td>
+            <td>
+            Eu, como usuário, desejo pesquisar uma ação pelo seu nome/empresa para conseguir encontrar informações mais facilmente
+            </td>
+        </tr>
+        <tr>
+            <td>
+            Eu, como usuário, desejo filtrar ações com base em características de sua empresa para conseguir encontrar informações mais facilmente
+            </td>
+        </tr>
+        <tr>
+            <td>
+            Eu, como usuário, desejo filtrar ações com base em indicadores de sua empresa para conseguir encontrar informações mais facilmente
+            </td>
+        </tr>
+        <tr>
+            <td rowspan=2>Fornecer cálculos de precificação</td>
+            <td>
+            Eu, como usuário, desejo visualizar formúlas de precificação das ações para me ajudar a entender se a ação está cara
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 | ÉPICO    | FEATURE              | USER STORY  |
 | -------- | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,10 +82,6 @@ Para a primeira release (MVP) do projeto Stock Compass foram definfidas as segui
 | AÇÕES    | Atualizar periodicamente os dados das ações | Eu, como sistema, desejo atualizar diariamente a cotação de uma ação para manter minha base de dados atualizada                        |
 | AÇÕES    | Atualizar periodicamente os dados das ações | Eu, como sistema, desejo atualizar diariamente os proventos pagos por uma empresa para manter minha base de dados atualizada           |
 | AÇÕES    | Atualizar periodicamente os dados das ações | Eu, como sistema, desejo atualizar diariamente as notícias de uma empresa para manter minha base de dados atualizada                   |
-| AÇÕES    | Pesquisar ações (nome e filtros)            | Eu, como usuário, desejo pesquisar uma ação pelo seu nome/empresa para conseguir encontrar informações mais facilmente                 |
-| AÇÕES    | Pesquisar ações (nome e filtros)            | Eu, como usuário, desejo filtrar ações com base em características de sua empresa para conseguir encontrar informações mais facilmente |
-| AÇÕES    | Pesquisar ações (nome e filtros)            | Eu, como usuário, desejo filtrar ações com base em indicadores de sua empresa para conseguir encontrar informações mais facilmente     |
-| AÇÕES    | Fornecer cálculos de precificação           | Eu, como usuário, desejo visualizar formúlas de precificação das ações para me ajudar a entender se a ação está cara                   |
 | USUÁRIO  | Manter Usuário                              | Eu, como usuário, desejo criar uma conta para poder utilizar mais funcionalidades                                                      |
 | USUÁRIO  | Manter Usuário                              | Eu, como usuário, desejo editar minha conta para poder atualizar minhas informações                                                    |
 | USUÁRIO  | Manter Usuário                              | Eu, como usuário, desejo deletar minha conta para não ter uma conta vinculada a plataforma                                             |

@@ -36,19 +36,22 @@ Para a primeira release (MVP) do projeto Stock Compass foram definfidas as segui
     </thead>
     <tbody>
         <tr>
-            <td rowspan=8>AÇÕES</td>
-            <td rowspan=2>Mostrar dados de ações</td>
-            <td>L3 Name A</td>
+            <td rowspan=9>AÇÕES</td>
+            <td>Mostrar dados de ações</td>
+            <td>Eu, como usuário, desejo visualizar dados sobre uma ação para conseguir analisá-la com facilidade</td>
         </tr>
         <tr>
-            <td>L3 Name B</td>
+            <td rowspan=4>Atualizar periodicamente os dados das ações</td>
+            <td>Eu, como sistema, desejo atualizar trimestralmente os resultados financeiros de uma empresa para manter minha base de dados atualizada</td>
         </tr>
         <tr>
-            <td rowspan=2>Atualizar periodicamente os dados das ações</td>
-            <td>L3 Name C</td>
+            <td>Eu, como sistema, desejo atualizar diariamente a cotação de uma ação para manter minha base de dados atualizada</td>
         </tr>
         <tr>
-            <td>L3 Name D</td>
+            <td>Eu, como sistema, desejo atualizar diariamente os proventos pagos por uma empresa para manter minha base de dados atualizada</td>
+        </tr>
+        <tr>
+            <td>Eu, como sistema, desejo atualizar diariamente as notícias de uma empresa para manter minha base de dados atualizada</td>
         </tr>
         <tr>
             <td rowspan=3>Pesquisar ações (nome e filtros)</td>
@@ -77,11 +80,11 @@ Para a primeira release (MVP) do projeto Stock Compass foram definfidas as segui
 
 | ÉPICO    | FEATURE              | USER STORY  |
 | -------- | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| AÇÕES    | Mostrar dados de ações                      | Eu, como usuário, desejo visualizar dados sobre uma ação para conseguir analisá-la com facilidade                                      |
-| AÇÕES    | Atualizar periodicamente os dados das ações | Eu, como sistema, desejo atualizar trimestralmente os resultados financeiros de uma empresa para manter minha base de dados atualizada |
-| AÇÕES    | Atualizar periodicamente os dados das ações | Eu, como sistema, desejo atualizar diariamente a cotação de uma ação para manter minha base de dados atualizada                        |
-| AÇÕES    | Atualizar periodicamente os dados das ações | Eu, como sistema, desejo atualizar diariamente os proventos pagos por uma empresa para manter minha base de dados atualizada           |
-| AÇÕES    | Atualizar periodicamente os dados das ações | Eu, como sistema, desejo atualizar diariamente as notícias de uma empresa para manter minha base de dados atualizada                   |
+
+| AÇÕES    | Atualizar periodicamente os dados das ações |  |
+| AÇÕES    | Atualizar periodicamente os dados das ações |                         |
+| AÇÕES    | Atualizar periodicamente os dados das ações |            |
+| AÇÕES    | Atualizar periodicamente os dados das ações |                    |
 | USUÁRIO  | Manter Usuário                              | Eu, como usuário, desejo criar uma conta para poder utilizar mais funcionalidades                                                      |
 | USUÁRIO  | Manter Usuário                              | Eu, como usuário, desejo editar minha conta para poder atualizar minhas informações                                                    |
 | USUÁRIO  | Manter Usuário                              | Eu, como usuário, desejo deletar minha conta para não ter uma conta vinculada a plataforma                                             |

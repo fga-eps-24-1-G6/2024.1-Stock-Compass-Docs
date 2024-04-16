@@ -12,10 +12,10 @@ A ideia do protótipo de média fidelidade é começar a imaginar como seria con
 ## Telas
 
 ### Ação
-![tela de acoes](/docs/assets/media_fidelidade1.png)
+<img src="assets/media_fidelidade1.png" alt="tela de acoes" />
 
 ### Carteira
-![tela de carteira](/docs/assets/media_fidelidade3.png)
+<img src="assets/media_fidelidade3.png" alt="tela de carteira" />
 
 ### Pesquisa
-![tela de pesquisa](/docs/assets/media_fidelidade2.png)
+<img src="assets/media_fidelidade2.png" alt="tela de pesquisa" />

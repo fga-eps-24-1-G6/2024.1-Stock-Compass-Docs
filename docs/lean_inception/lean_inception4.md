@@ -51,4 +51,4 @@ As ondas ficaram da seguinte forma:
 
 ## Canvas MVP
 
-![canvas mvp](/docs/assets/canvas_mvp.png)
+<img src="assets/canvas_mvp.png" alt="canvas mvp" />

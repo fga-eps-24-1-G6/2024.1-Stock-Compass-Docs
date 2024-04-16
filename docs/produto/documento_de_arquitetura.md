@@ -8,6 +8,7 @@
 | Elaboração do diagrama de Microserviços| Lucas Felipe e Yan Andrade | 09/04/2024 |
 | Elaboração do diagrama de Pacotes| Lucas Felipe e Yan Andrade| 10/04/2024 |
 | Elaboração do Diagrama de classes | Lucas Felipe e Yan Andrade | 12/04/2024 |
+| Conserta imagens | João Viictor | 16/04/2024 |
 
 ## Diagrama de Classes
 
@@ -23,7 +24,7 @@ O diagrama foi elaborado seguindo a documentação e padronização prevista pel
 
 Um diagrama de classes é um diagrama estático da UML que reúne os elementos mais importantes de um sistema orientado a objetos. Nele são exibidos um conjunto de classes, interfaces e seus relacionamentos. As classes especificam tanto as propriedades quanto os comportamentos dos objetos. O diagrama de classes surgiu com o objetivo de reunir as "melhores práticas de engenharia" que provaram ter sucesso em modelar sistemas complexos na época.
 
-[Diagrama de classes](/2024.1-Stock-Compass-Docs/docs/produto/assets/diagramadeclasses.png)
+<img src="assets/diagramadeclasses.png" alt="Diagrama de classes"/>
 
 ## Diagrama de Pacotes
 
@@ -39,23 +40,23 @@ Para esboçar o diagrama, os membros Lucas Felipe e Yan Andrade se reuniram e ut
 
 Durante a execução de tal diagrama, optamos inicialmente por esboçar de maneira mais geral quais os serviços que estão sendo pensados de maneira inicial para o sistema. Posteriormente, conseguimos aprofundar com maior nível de detalhamento o que cada serviço deste terá como responsabilidade e como os mesmos se comunicarão entre si e com outros módulos da plataforma. Nas imagens a seguir,  iremos tratar cada um de maneira individual.
 
-[Coleta de Dados](/2024.1-Stock-Compass-Docs/docs/produto/assets/coletaDados.png)
+<img src="assets/coletaDados.png" alt="Coleta de Dados"/>
 
 O serviço de coleta de dados, será o serviço que terá como responsabilidade coletar atualizar dados de uma API externa e alimentar nosso banco de dados com essas informações. ALém mais, tal serviço é primordial para a garantia de dados que serão útilizados para implementação das mais variadas regras de negócio que serão trabalhadas em outros serviços.
 
-[Front-End](/2024.1-Stock-Compass-Docs/docs/produto/assets/pacoteFrontEnd.png.png)
+<img src="assets/pacoteFrontEnd.png" alt="Front-End"/>
 
 O pacote de Front-End, representa a maneira geral como nossa camada de interface será implementada dentro do sistema. Basicamente sua principal responsabilidade será formar uma interface simplificada  para o consumo dos serviços. Uma particularidade deste pacote em questão, será a utilização do Framework "Next.js", com o mesmo teremos a simplificação do que se diz repeito a implantação de rotas pois a mesma utiliza a estrutura dos próprios arquivos para a mesma.
 
-[Carteira](/2024.1-Stock-Compass-Docs/docs/produto/assets/servicoCarteira.png.png)
+<img src="assets/servicoCarteira.png" alt="Carteira"/>
 
 O pacote de Carteira, representa a lógica de negócio onde o usuário vai poder cadastrar seus dados financeiros dos quais ele deseja simular todo o processo de investimentos e com os mesmos o sistema vai trabalhar com todos os cálculos e conversões de dados de maneira que sirva os mesmos de maneira intuitiva para o Usuário.
 
-[Acoes](/2024.1-Stock-Compass-Docs/docs/produto/assets/servicoAcoes.png.png)
+<img src="assets/servicoAcoes.png" alt="Acoes"/>
 
 O pacote de Ações, representa o serviço do qual vamos trabalhar com a manipulação dos dados recebidos da coleta de dados para que os mesmos agora sejam capazes de serem melhor trabalhados e calculados para outros serviços.
 
-[User](/2024.1-Stock-Compass-Docs/docs/produto/assets/servicoUsuario.png.png)
+<img src="assets/servicoUsuario.png" alt="User"/>
 
 O pacote de usuário, vai ser responsável por gerenciar o processo de autênticação e autorização do usuário no sistema. Basicamente esse serviço vai garantir a integridade dos dados do usuário e a garantia de que os dados trabalhados sejam do mesmo
 
@@ -63,4 +64,4 @@ O pacote de usuário, vai ser responsável por gerenciar o processo de autêntic
 
 De maneira similar ao diagrama de pacotes, trabalhamos também com o diagrama de microserviços onde os principais objetivos são descrever e ilustrar com mais detalhes quais serão os serviçõs utilizados no sistema e como os mesmos vão conversar entre si e com o sistema como um todo.
 
-[Microservicos](/2024.1-Stock-Compass-Docs/docs/produto/assets/microServicos.png.png)
+<img src="assets/microServicos.png" alt="Microservicos"/>

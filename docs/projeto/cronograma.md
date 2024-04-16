@@ -12,7 +12,7 @@ Foram consideradas para esse cronograma as funcionaldades que foram definidas du
 
 A imagem abaixo mostra uma árvore de dependências das tarefas que serão executadas com as tarefas já agrupadas por suas sprints:
 
-<img src="/docs/assets/cronograma_mvp.png" alt="cronograma"/>
+<img src="assets/cronograma_mvp.png" alt="cronograma"/>
 
 <!-- ![cronograma](/docs/assets/cronograma_mvp.png) -->
 

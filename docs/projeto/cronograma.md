@@ -14,6 +14,8 @@ A imagem abaixo mostra uma árvore de dependências das tarefas que serão execu
 
 <img src="assets/cronograma_mvp.png" alt="cronograma"/>
 
+<br/>
+
 <!-- ![cronograma](/docs/assets/cronograma_mvp.png) -->
 
 | Sprint                 | Duração   |

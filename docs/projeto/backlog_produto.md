@@ -70,33 +70,85 @@ Para a primeira release (MVP) do projeto Stock Compass foram definfidas as segui
             </td>
         </tr>
         <tr>
-            <td rowspan=2>Fornecer cálculos de precificação</td>
+            <td>Fornecer cálculos de precificação</td>
             <td>
             Eu, como usuário, desejo visualizar formúlas de precificação das ações para me ajudar a entender se a ação está cara
             </td>
         </tr>
+        <tr>
+            <td rowspan=6>USUÁRIO</td>
+            <td rowspan=4>Manter usuário</td>
+            <td>Eu, como usuário, desejo criar uma conta para poder utilizar mais funcionalidades</td>
+        </tr>
+         <tr>
+            <td>
+            Eu, como usuário, desejo editar minha conta para poder atualizar minhas informações
+            </td>
+        </tr>
+         <tr>
+            <td>
+           Eu, como usuário, desejo deletar minha conta para não ter uma conta vinculada a plataforma
+            </td>
+        </tr>
+         <tr>
+            <td>
+            Eu, como usuário, desejo ver dados da minha conta para conferir minhas informações
+            </td>
+        </tr>
+                <tr>
+            <td rowspan=2>Sessão de usuário</td>
+            <td>
+            Eu, como usuário, desejo realizar login com senha na plataforma para ter minha conta restrita para outros
+            </td>
+        </tr>
+        <tr>
+            <td>
+            Eu, como usuário, desejo realizar logout da plataforma para sair da minha conta quando quiser
+            </td>
+        </tr>
+        <tr>
+            <td rowspan=9>CARTEIRA</td>
+            <td rowspan=4>Manter carteira</td>
+            <td>Eu, como usuário, desejo criar uma carteira para organizar ativos financeiros</td>
+        </tr>
+         <tr>
+            <td>
+            Eu, como usuário, desejo editar uma carteira para atualizar a composição da minha carteira
+            </td>
+        </tr>
+         <tr>
+            <td>
+           Eu, como usuário, desejo visualizar uma carteira para conferir as informaçẽs da minha carteira
+            </td>
+        </tr>
+         <tr>
+            <td>
+            Eu, como usuário, desejo deletar uma carteira para que não seja possível visualizar as informações desnecessárias
+            </td>
+        </tr>
+        <tr>
+            <td rowspan=4>Manter lançamento</td>
+            <td>Eu, como usuário, desejo criar um lançamento para conseguir atualizar os dados da minha carteira</td>
+        </tr>
+         <tr>
+            <td>
+            Eu, como usuário, desejo visualizar um lançamento para conseguir visualizar os dados de um lançamento existente
+            </td>
+        </tr>
+         <tr>
+            <td>
+           Eu, como usuário, desejo editar um lançamento para conseguir editar um lançamento existente
+            </td>
+        </tr>
+         <tr>
+            <td>
+            Eu, como usuário, desejo excluir um lançamento para conseguir excluir um lançamento existente
+            </td>
+        </tr>
+        <tr>
+            <td>Visualizar rentabilidade da carteira</td>
+            <td>Eu, como usuário, desejo visualizar a rentabilidade da carteira para saber se estou tendo lucro ou não</td>
+        </tr>
     </tbody>
 </table>
 
-| ÉPICO    | FEATURE              | USER STORY  |
-| -------- | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-
-| AÇÕES    | Atualizar periodicamente os dados das ações |  |
-| AÇÕES    | Atualizar periodicamente os dados das ações |                         |
-| AÇÕES    | Atualizar periodicamente os dados das ações |            |
-| AÇÕES    | Atualizar periodicamente os dados das ações |                    |
-| USUÁRIO  | Manter Usuário                              | Eu, como usuário, desejo criar uma conta para poder utilizar mais funcionalidades                                                      |
-| USUÁRIO  | Manter Usuário                              | Eu, como usuário, desejo editar minha conta para poder atualizar minhas informações                                                    |
-| USUÁRIO  | Manter Usuário                              | Eu, como usuário, desejo deletar minha conta para não ter uma conta vinculada a plataforma                                             |
-| USUÁRIO  | Manter Usuário                              | Eu, como usuário, desejo ver dados da minha conta para conferir minhas informações                                                     |
-| USUÁRIO  | Sessão de usuário                           | Eu, como usuário, desejo realizar login com senha na plataforma para ter minha conta restrita para outros                              |
-| USUÁRIO  | Sessão de usuário                           | Eu, como usuário, desejo realizar logout da plataforma para sair da minha conta quando quiser                                          |
-| CARTEIRA | Manter carteira                             | Eu, como usuário, desejo criar uma carteira para organizar ativos financeiros.                                                         |
-| CARTEIRA | Manter carteira                             | Eu, como usuário, desejo editar uma carteira para atualizar a composição da minha carteira.                                            |
-| CARTEIRA | Manter carteira                             | Eu, como usuário, desejo visualizar uma carteira para conferir as informaçẽs da minha carteira.                                        |
-| CARTEIRA | Manter carteira                             | Eu, como usuário, desejo deletar uma carteira para que não seja possível visualizar as informações desnecessárias.                     |
-| CARTEIRA | Manter lançamento                           | Eu, como usuário, desejo criar um lançamento para conseguir atualizar os dados da minha carteira                                       |
-| CARTEIRA | Manter lançamento                           | Eu, como usuário, desejo visualizar um lançamento para conseguir visualizar os dados de um lançamento existente                        |
-| CARTEIRA | Manter lançamento                           | Eu, como usuário, desejo editar um lançamento para conseguir editar um lançamento existente                                            |
-| CARTEIRA | Manter lançamento                           | Eu, como usuário, desejo excluir um lançamento para conseguir excluir um lançamento existente                                          |
-| CARTEIRA | Visualizar rentabilidade da carteira        | Eu, como usuário, desejo visualizar a rentabilidade da carteira para saber se estou tendo lucro ou não.                                |

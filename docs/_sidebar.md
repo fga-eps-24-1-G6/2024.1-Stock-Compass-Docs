@@ -27,4 +27,5 @@
   - [Como construir API's](/guias/arquitetura_apis.md)
 
 - **Srints**
-  - [Pré-Sprint 0](/sprints/pre_sprint_0.md) 
+  - [Pré-Sprint 0](/sprints/pre_sprint_0.md)
+  - [Sprint 0 (15/04 - 21/04)](/sprints/sprint_0.md)

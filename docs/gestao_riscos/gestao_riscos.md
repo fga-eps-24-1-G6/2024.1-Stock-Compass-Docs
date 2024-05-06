@@ -138,3 +138,131 @@ A metodologia é composta por cinco etapas, conforme ilustrado de forma resumida
 <img src="assets/gestaoRiscos2.png" alt="Metodologia Gestão de riscos"/>
 
 <div style="text-align: center"> Figura 2. Metodologia da Gestão de Riscos. Fonte: Lucas Felipe Soares </div>
+
+### 1º - Levantamento do ambiente e dos Objetivos
+
+A análise do ambiente tem a finalidade de colher informações para apoiar a
+identificação de eventos de riscos, bem como contribuir para a escolha de ações mais
+adequadas para assegurar o alcance dos objetivos do macroprocesso/processo do projeto.
+Podemos dizer que esta é a etapa do planejamento, da definição da missão e objetivos.
+Os objetivos devem ser divulgados a todos os membros da equipe, antes da
+inicialização dos eventos. Eles devem estar alinhados à missão do projeto.
+Nesta etapa, devem ser identificados, pelo menos:
+
+- **Descrição resumida do processo:** A descrição é um breve relato sobre o processo que permite compreender o seu fluxo, a relação entre os atores envolvidos e os resultados esperados;
+
+- **Objetivos do processo organizacional:** É importante apontar qual ou quais objetivos são alcançados por essa parte do projeto. Sendo possível, devem ser indicados o objetivo geral e os objetivos específicos do processo;
+
+- **Justificativa para o gerenciamento de riscos no processo:** Apresentar os motivos que levaram a implementar a gestão de riscos no processo organizacional;
+
+### 2º - Identificação de Eventos de Riscos
+
+Esta etapa tem por finalidade identificar e registrar tanto os eventos de riscos que
+comprometem o alcance do objetivo do processo, assim como as causas e efeitos/consequências de cada um deles.
+Os riscos podem ser identificados a partir de perguntas, como:
+
+- Quais eventos podem **EVITAR** o atingimento de um ou mais objetivos do processo?
+
+- Quais eventos podem **ATRASAR** o atingimento de um ou mais objetivos do processo?
+
+- Quais eventos podem **PREJUDICAR** o atingimento de um ou mais objetivos do processo?
+
+- Quais eventos podem **IMPEDIR** o atingimento de um ou mais objetivos do processo?
+
+### 3º - Avaliação de eventos de Riscos e Controles
+
+Esta etapa tem por finalidade avaliar os eventos de riscos identificados considerando
+os seus componentes (causas e consequências). Os eventos devem ser avaliados sob a
+perspectiva de **PROBABILIDADE** e **IMPACTO**, e o resultado dessas duas variáveis será o
+que chamamos de **NÍVEL DE RISCO**. As causas se relacionam à probabilidade de o evento
+ocorrer e as consequências ao impacto, caso o evento se materialize.
+O nível de risco será avaliado de forma qualitativa e quantitativa através de uma
+matriz de Impacto e Probabilidade com amplitude em quatro níveis, definida em uma matriz
+cinco por cinco. Podemos definir o **NÍVEL DE RISCO** com a seguinte equação:
+
+<img src="assets/gestaoRiscos3.png" alt="Metodologia Gestão de riscos"/>
+
+<div style="text-align: center"> Figura 3. Fórmula. Fonte: Lucas Felipe Soares </div>
+
+Ao avaliar os riscos que podem afetar o nosso projeto, encontramos uma série de possibilidades que precisam ser consideradas e gerenciadas. Desde riscos menores, que têm um impacto mínimo nos objetivos do projeto, até riscos mais
+graves, que podem comprometer significativamente o seu alcance.
+
+É importante lembrar que, mesmo que nem todos os riscos se materializem, é fundamental que estejamos preparados para
+lidar com eles, a fim de minimizar seus impactos e garantir o sucesso do projeto. Por isso, precisamos estar sempre atentos a qualquer sinal de que um risco possa ocorrer e ter planos de contingência bem definidos para lidar com cada um
+deles.
+
+- **Saída de membros do Projeto:** É possível que alguns membros se retirem da equipe durante a execução do projeto, desfalcando a equipe. Como forma de mitigar o risco, os membros constantemente serão monitorados sobre como se sentem em relação ao projeto, à equipe e ao contexto geral no qual se enquadram. Além disso,
+a gestão de conhecimento levantada durante o projeto deve ser eficiente para que, mesmo que a saída do membro seja inevitável, não existam grandes consequências, pois será mais fácil substituir o trabalho prestado. Esse risco pode ocorrer durante todo o período do projeto.
+
+- **Comunicação Ineficiente entre os membros:** Mal entendidos e falta de alinhamento entre os membros do projeto é um risco pois gera insatisfações em todas as partes e tem potencial de gerar retrabalho, já que a equipe poderá obter
+resultados que não estejam de acordo com os reais interesses de todas as partes. Um planejamento que priorize entregas pequenas e frequentes mitigará parte desse risco, pois, supondo o bom cumprimento do planejado, sempre existirão resultados palpáveis para que todos do grupo o validem. Esse risco pode ocorrer durante todo
+o período do projeto, porém de forma mais grave no início, na elencação dos documentos iniciais do projeto.
+
+- **Alteração de Escopo:** Embora o projeto tenha objetivos estabelecidos, os meios utilizados para o cumprimento dos mesmos não são muito claros em momento inicial. Esse risco pode ocorrer durante todo o período do projeto, sendo uma consequẽncia da comunicação ineficiente entre os membros.
+
+- **Baixo Desempenho:** O risco de desempenho surge quando o próprio desempenho do projeto não corresponde às expectativas iniciais estabelecidas pelo grupo. Nem sempre é possível encontrar a causa original do baixo desempenho, mas com a organização e planejamento de atividades, o foco é identificar riscos que possam
+resultar nisso e buscar formas de evitá-los. Alguns exemplos deste tipo de risco são:
+Baixa produtividade na semana de provas ou entregas de trabalhos de outras
+matérias e dificuldade de entendimento do projeto. Iremos evitar enquanto grupo os
+prazos curtíssimos e falhas de comunicação entre os membros da equipe. Esse risco pode ocorrer durante todo o período do projeto.
+
+- **Prazos Muito Curtos:** O risco de tempo, também chamado de risco de cronograma, significa que as tarefas levarão mais tempo do que o esperado. Cronogramas atrasados podem impactar outros fatores, como datas de entrega e desempenho
+geral. Trata-se de um risco comum enfrentado por projetos. Exemplos de
+consequências desse risco: Não conseguir entregar o Backlog da sprint e atrasar muitas sprints. Quando um membro só não é responsável por executar todos os aspectos dinâmicos do trabalho e sim as atividades serem distribuídas para um
+desempenho mais rápido, com essas atividades devidamente especificadas e detalhadas, com os seus objetivos relacionados ao progresso do projeto, é fácil estimar com a equipe, durante o planejamento, o tempo que os membros da equipe
+levarão para concluir as partes do projeto. Esse risco pode ocorrer durante todo o período do projeto.
+
+- **Falta de clareza nos objetivos:** Pode resultar em confusão, desperdício de tempo e
+  recursos e até mesmo no fracasso do projeto. Quando os objetivos não são claros,
+  pode haver divergências entre as expectativas da equipe, o que pode levar a
+  conflitos e mal-entendidos. Para mitigar esse risco, é importante que os objetivos
+  sejam claramente definidos desde o início do projeto. É recomendado que haja uma
+  reunião do projeto, na qual os objetivos devem ser apresentados de forma clara e
+  detalhada, com a participação de todos os envolvidos. Também é importante que os
+  objetivos sejam documentados e que haja uma revisão periódica para garantir que
+  todos estão alinhados.. A definição clara dos papéis e responsabilidades de cada
+  membro da equipe também pode ajudar a garantir que todos trabalhem em direção
+  aos mesmos objetivos.
+
+- **Atraso das aulas:** O risco relacionado ao atraso das aulas para o entendimento do
+  projeto pode trazer consequências significativas para o sucesso do projeto. Se os
+  membros da equipe não estiverem cientes dos objetivos, requisitos e expectativas
+  do projeto, pode levar a uma execução inadequada e resultar em um produto final
+  abaixo do esperado. Para mitigar esse risco, é importante estar ciente do
+  cronograma das aulas e garantir que todas as informações relevantes sejam
+  apresentadas de maneira clara e concisa durante as aulas. Também é recomendável
+  que os membros da equipe estudem pelos materiais de referência, para que possam
+  revisar e esclarecer dúvidas no horário das aulas. Além disso, é importante que os
+  membros da equipe sejam incentivados a fazer perguntas e fornecer feedback
+  durante as aulas para garantir que compreendam completamente o projeto. A
+  comunicação aberta e transparente entre a equipe e a professora pode ajudar a
+  identificar precocemente quaisquer problemas de entendimento do projeto e permitir
+  que as medidas de mitigação adequadas sejam implementadas.
+
+  <img src="assets/gestaoRiscos4.png" alt=" Avaliação dos riscos do projeto"/>
+
+<div style="text-align: center"> Figura 4.  Avaliação dos riscos do projeto. Fonte: Lucas Felipe Soares </div>
+
+### Critérios de Replanejamento
+
+O projeto será replanejado caso alguns dos riscos se estenderem e não terem sido
+resolvidos, isto é,um risco ter mudado todo o planejamento, escopo e cronograma feito para
+o projeto. Também poderá ocorrer seu replanejamento caso os clientes os membros
+precisem organizar artefatos antigos, sendo necessário um cronograma atualizado e uma
+revisão das sprints até o presente momento.
+
+Haverá o replanejamento caso algum desses casos aconteça:
+
+- Atrasos recorrentes de ciclos;
+- Alterações drásticas do cronograma;
+- Perda de dois membros ou mais;
+- Mudança no escopo do projeto;
+- Alterações drásticas do escopo;
+- Prazos impossíveis de serem executados;
+- Não ter clareza nos objetivos.
+
+Nessas situações os seguintes passos devem ser seguidos:
+
+- Revisão do cronograma;
+- Replanejamento de ciclos;
+- Replanejamento da alocação de tarefas.

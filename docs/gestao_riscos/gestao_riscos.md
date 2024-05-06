@@ -67,3 +67,74 @@ prejuízos para o projeto ou para a organização como um todo.
 <img src="assets/piramide.png" alt="Pirâmide de Instâncias de Supervisão e
 Linhas de Defesa"/>
 
+<div style="text-align: center"> Figura 1. Estrutura da Gestão de Riscos do Grupo 6. Fonte: Lucas Felipe Soares </div>
+
+### Alta Gestão (Professor Ricardo Chain)
+
+- Ser atualizado da implementação da Gestão de Riscos, considerando os contextos externo e interno do projeto;
+
+- Ser atualizada dos riscos e da evolução ao longo do projeto;- Comunicar de maneira clara e objetiva, uma possível solução para o risco que o grupo trouxer, caso o mesmo não tenha sido resolvido pelos Gestores de Risco e o Comitê de Governança;
+
+- Aprovar os planos de mitigação de riscos desenvolvidos pela equipe.
+
+
+
+### Comitê de Risco (João Victor Batista, Yan Andrade e Lucas Felipe)
+
+- Auxiliar a Alta Gestão nas atualizações da estratégia de implementação da Gestão de Riscos, considerando os contextos externo e interno do projeto;
+
+- Auxiliar na atualização periódica do ciclo do processo de gerenciamento de riscos para cada um dos processos da pirâmide;
+
+- Auxiliar na aprovação das medidas de controle a serem implementadas nos processos para resolver um risco, caso não tenha sido resolvido pelos Gestores de Risco;
+
+- Avaliar a proposta de solução do risco criada pelos Gestores de Riscos;
+
+- Auxiliar no monitoramento da evolução dos níveis de riscos e a efetividade das medidas de controle implementadas;
+
+- Auxiliar na avaliação do desempenho e da conformidade legal e normativa da Gestão de Riscos.
+
+- Gerenciamento do Plano de Gestão de riscos.
+
+### Gestores de Risco (Luiz Henrique, Victor Souza e Lucas Gomes)
+
+- Analisar e avaliar os riscos trazidos pelos diversos membros, para a análise de um gerenciamento de risco para ser mitigado e passando para o Comitê de risco aprovar. Caso seja algo que seja identificado como algo que o Gestores não conseguem resolver, deve ser passado para o Comitê de risco resolver;
+
+- Propor respostas e respectivas medidas de controle a serem implementadas pelos Proprietários do risco;
+
+- Monitorar os riscos dos Proprietários do risco, em relação às tarefas que estão sob sua responsabilidade;
+
+- Responder às requisições do Comitê de Governança e da Alta Gestão.
+
+### Proprietários do Risco (Toda a equipe)
+
+- Identificar e avaliar os riscos em suas áreas de atuação no projeto;
+
+- Comunicar imediatamente os Gestores de riscos sobre qualquer risco identificado que possa afetar o projeto;
+
+- Participar ativamente do processo de gerenciamento de riscos, contribuindo com ideias e sugestões para mitigar os riscos identificados;
+
+- Monitorar os riscos em suas áreas de atuação e reportar quaisquer mudanças ou desenvolvimentos que possam afetar o projeto;
+
+- Garantir que as ações para mitigação dos riscos sejam implementadas de acordo com o planejado;
+
+- Atuar de forma proativa na identificação de novos riscos ou oportunidades de melhoria para o projeto;
+
+- Comunicar aos demais membros do grupo sobre os riscos que possam afetar o trabalho em equipe e o projeto como um todo;
+
+- Participar das revisões periódicas de riscos e análises de tendências.
+
+## Metodologia de Gestão de Riscos
+
+A Metodologia de Gestão de Riscos do projeto tem como objetivo estabelecer e estruturar as etapas necessárias para a sua
+operacionalização, por meio da definição de um
+processo de gerenciamento de riscos.
+
+Dessa forma, a base para o gerenciamento de riscos da gestão são os processos do trabalho, o procedimento adequado é que
+cada divisão e trabalho feita na equipe verifique quais os processos devem ser priorizados e posteriormente mapeá-los, após essa priorização a metodologia pode ser aplicada.
+
+A metodologia é composta por cinco etapas, conforme ilustrado de forma resumida na Figura 2.
+
+
+<img src="assets/gestaoRiscos2.png" alt="Metodologia Gestão de riscos"/>
+
+<div style="text-align: center"> Figura 2. Metodologia da Gestão de Riscos. Fonte: Lucas Felipe Soares </div>

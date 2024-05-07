@@ -30,3 +30,4 @@
   - [Pré-Sprint 0](/sprints/pre_sprint_0.md)
   - [Sprint 0 (15/04 - 21/04)](/sprints/sprint_0.md)
   - [Sprint 1 (22/04 - 29/04)](/sprints/sprint_1.md)
+  - [Sprint 2 (30/04 - 06/05)](/sprints/sprint_2.md)

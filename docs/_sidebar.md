@@ -5,8 +5,9 @@
 - **Definição de Metodologia**
   - [Metodologia](/metodologia/metodologia.md)
 
-- **Gestão de riscos**
+- **Plano de custo e risco**
   - [Gestão de Riscos](/gestao_riscos/gestao_riscos.md)
+  - [Custos](/custos/custos.md)
 
 - **Lean Inception**
   - [01/04 - Visão de Produto, É/NÃO É/FAZ/NÃO FAZ e Objetivos do Produto](/lean_inception/lean_inception1.md)

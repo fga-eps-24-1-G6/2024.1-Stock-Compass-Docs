@@ -5,6 +5,9 @@
 - **Definição de Metodologia**
   - [Metodologia](/metodologia/metodologia.md)
 
+- **Gestão de riscos**
+  - [Gestão de Riscos](/gestao_riscos/gestao_riscos.md)
+
 - **Lean Inception**
   - [01/04 - Visão de Produto, É/NÃO É/FAZ/NÃO FAZ e Objetivos do Produto](/lean_inception/lean_inception1.md)
   - [02/04 - Personas, Jornadas de Usuário e Brainstorming](/lean_inception/lean_inception2.md)
@@ -26,7 +29,7 @@
 - **Guias de Contribuição**
   - [Como construir API's](/guias/arquitetura_apis.md)
 
-- **Srints**
+- **Sprints**
   - [Pré-Sprint 0](/sprints/pre_sprint_0.md)
   - [Sprint 0 (15/04 - 21/04)](/sprints/sprint_0.md)
   - [Sprint 1 (22/04 - 29/04)](/sprints/sprint_1.md)

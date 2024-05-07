@@ -14,7 +14,7 @@ O principal objetivo do Stock-Compass é proporcionar aos usuários uma compreen
 |-----------------------------------|------------------|
 | João Victor Teixeira Batista      |    190109963     |
 | Lucas Felipe Soares               |    202016767     |
-| Lycas Gomes Caldas                |    212005426     |
+| Lucas Gomes Caldas                |    212005426     |
 | Luiz Henrique Fernandes Zamprogno |    190033681     |
 | Victor Souza Dantas Martins Lima  |    190044403     |
 | Yan Andrade de Sena               |    190109963     |

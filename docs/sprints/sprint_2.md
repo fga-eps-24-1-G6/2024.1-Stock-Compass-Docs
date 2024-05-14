@@ -7,8 +7,8 @@
 | Criação da API de Lançamentos | Lucas Gomes | Entregue
 | Criação do Plano de Custos | Lucas Felipe | Entregue
 | Testes Unitários na API de ações | Yan Andrade | Entregue
-| Criar tela de pesquisa de ações | Victor Lima | Entregue
 | Criar tela de carteira | João Victor e Luiz Henrique | Incompleto
+| Criar tela de pesquisa de ações | Victor Lima | Incompleto
 | Calcular rentabilidade da carteira | Lucas Gomes | Não Entregue
 
 

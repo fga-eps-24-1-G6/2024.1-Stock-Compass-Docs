@@ -36,3 +36,4 @@
   - [Sprint 1 (22/04 - 29/04)](/sprints/sprint_1.md)
   - [Sprint 2 (30/04 - 06/05)](/sprints/sprint_2.md)
   - [Sprint 3 (07/05 - 13/05)](/sprints/sprint_3.md)
+  - [Sprint 4 (14/05 - 20/05)](/sprints/sprint_4.md)

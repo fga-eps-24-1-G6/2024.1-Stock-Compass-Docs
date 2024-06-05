@@ -1,5 +1,9 @@
 <!-- docs/_sidebar.md -->
 - [Home](/)
+
+- **APIs**
+  - [API de Ações](/api/api_acoes.md)
+
 - [Políticas de Repositório](/politicas/politicas_de_repositorio.md)
 
 - **Definição de Metodologia**

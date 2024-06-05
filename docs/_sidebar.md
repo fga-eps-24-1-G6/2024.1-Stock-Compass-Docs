@@ -1,8 +1,9 @@
 <!-- docs/_sidebar.md -->
 - [Home](/)
 
-- **APIs**
+- **[APIs](/api/index.md)**
   - [API de Ações](/api/api_acoes.md)
+  - [API de Carteira](/api/api_carteira.md)
 
 - [Políticas de Repositório](/politicas/politicas_de_repositorio.md)
 

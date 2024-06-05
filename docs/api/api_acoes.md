@@ -1,12 +1,14 @@
 # API de Ações
 
-O documento a seguir tem como função explicar e exemplificar o funcionaento do microsserviço de ações. Esta API te como função fornecer dados sobre ações da B3 - Bolsa de Valores brasileira. Estes dados incluem informações como dados da empresa, histórico de resultados financeiros, histórico de dividendos e rentabilidade da ação.
+O documento a seguir tem como função explicar e exemplificar o funcionamento do microsserviço de ações. Esta API te como função fornecer dados sobre ações da B3 - Bolsa de Valores brasileira. Estes dados incluem informações como dados da empresa, histórico de resultados financeiros, histórico de dividendos e rentabilidade da ação.
 
-### Endpoints
+## Endpoints
 
 #### **Resumo da ação:**
 
 Caminho: `/api/stocks/stock-summary/{ticker}`
+
+Método: `GET`
 
 Retorno:
 ```
@@ -35,6 +37,8 @@ Retorno:
 
 Caminho: `/api/company/company-info/{id}`
 
+Método: `GET`
+
 Retorno:
 ```
 {
@@ -51,6 +55,8 @@ Retorno:
 
 Caminho: `/api/balance-sheet/yearly/{companyId}`
 
+Método: `GET`
+
 Retorno:
 ```
 [
@@ -63,6 +69,8 @@ Retorno:
 #### **Dividendos:**
 
 Caminho: `/api/dividends/{ticker}`
+
+Método: `GET`
 
 Retorno:
 ```
@@ -131,6 +139,8 @@ Retorno:
 
 Caminho: `/api/stocks/indicators/{ticker}`
 
+Método: `GET`
+
 Retorno:
 ```
 {
@@ -146,6 +156,8 @@ Retorno:
 #### **Precificação:**
 
 Caminho: `/api/stocks/valuation/{ticker}`
+
+Método: `GET`
 
 Retorno:
 ```

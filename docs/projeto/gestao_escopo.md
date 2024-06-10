@@ -47,12 +47,24 @@ Neste documento de Planejamento e Execução do Escopo para o projeto Stock-Comp
 
 ## Declaração do Escopo do Projeto
 
-**Projeto:** Stock Compass  
-**Descrição:** O projeto Stock Compass visa desenvolver uma plataforma de gerenciamento de estoques com funcionalidades específicas para atender às necessidades dos usuários em termos de controle, rastreamento e otimização de estoque.
+**Projeto: Stock Compass**
+
+**Descrição:** 
+
+O projeto Stock Compass visa desenvolver uma plataforma que proporciona aos usuários uma compreensão aprofundada do mercado financeiro e das práticas de investimento. A plataforma oferece funcionalidades detalhadas para a visualização e análise de dados de ações, além de recursos para gerenciamento de carteiras de investimentos.
 
 **Produtos do Projeto:**
-1. Plataforma de Gerenciamento de Estoques
-2. Funcionalidades detalhadas no backlog do produto
+
+1. **Plataforma Stock Compass:**
+    - Uma aplicação web para gerenciamento de investimentos.
+2. **Funcionalidades detalhadas do produto:**
+    - Visualização de dados sobre ações.
+    - Atualização periódica dos dados das ações.
+    - Sistema de login e autenticação.
+    - Manutenção e gerenciamento de carteiras de investimento.
+    - Manutenção e gerenciamento de lançamentos financeiros.
+    - Visualização de rentabilidade de carteiras.
+
 
 ## EAP (Estrutura Analítica do Projeto)
 

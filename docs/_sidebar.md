@@ -31,6 +31,7 @@
 - **Projeto**
   - [Backlog do Produto](/projeto/backlog_produto.md)
   - [Cronograma de Atividades](/projeto/cronograma.md)
+  - [Gestão de Escopo](/projeto/gestao_escopo.md)
 
 - **Guias de Contribuição**
   - [Como construir API's](/guias/arquitetura_apis.md)
@@ -42,4 +43,4 @@
   - [Sprint 2 (30/04 - 06/05)](/sprints/sprint_2.md)
   - [Sprint 3 (07/05 - 13/05)](/sprints/sprint_3.md)
   - [Sprint 4 (14/05 - 20/05)](/sprints/sprint_4.md)
-  - [Sprint 5 (27/05 -02/06 )](/sprints/sprint_5.md)
+  - [Sprint 5 (27/05 - 02/06)](/sprints/sprint_5.md)
